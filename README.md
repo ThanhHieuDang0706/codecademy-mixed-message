@@ -22,7 +22,7 @@ Although the instruction on the learning sites ask to store the message (string 
 * Command Line
 
 ## Setup
-To run this program, you must have [node.js] (https://nodejs.org/en/) installed.
+To run this program, you must have [node.js](https://nodejs.org/en/) installed.
 > To run:  `$ node script.js`
 
 
