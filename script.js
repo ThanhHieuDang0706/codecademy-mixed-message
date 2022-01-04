@@ -1,13 +1,13 @@
 const greetings = ['Hi', 'Greetings', 'Hola', 'Hello', 'What\'s up', 'Ciao']
 
 const intro = [
-    'Did you know that',
-    'Facts you should know about Pewdiepie:',
+    'did you know that',
+    'facts you should know about Pewdiepie:',
     'You are STUPID to NOT know that',
-    'It is important to know that',
+    'it is important to know that',
     'I find it interesting that',
-    'You have small PP if you don\'t know that',
-    'You will not have a BROFIST if you don\'t know that',
+    'you have small PP if you don\'t know that',
+    'you will not have a BROFIST if you don\'t know that',
 ]
 
 const generateMessage = (facts) =>
